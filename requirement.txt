@@ -1,0 +1,14 @@
+datetime  
+yfinance 
+dash
+dash_core_components 
+dash_bootstrap_components 
+dash_html_components
+dash_table
+pandas 
+plotly.graph_objs 
+dash.dependencies  
+plotly.express 
+keras.models  
+sklearn.preprocessing  
+numpy 
